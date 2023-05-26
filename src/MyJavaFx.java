@@ -204,7 +204,7 @@ public class MyJavaFx extends Application{
 public void start(Stage primaryStage)
 {
 
-	 String mdlFilename = "C:\\Users\\Menna\\eclipse-workspace\\MyJavaFx\\bin\\Example.mdl"; //might differ from one device to another. 
+	 String mdlFilename = "Example.mdl";  
     int[] systemLocation = new int[4];
     ArrayList<Blocks> blocks = new ArrayList<Blocks>();
     ArrayList<Lines> liness = new ArrayList<Lines>();
